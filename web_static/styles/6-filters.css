@@ -61,13 +61,12 @@ h4 {
     padding-bottom: 12px;
 }
 
-.locations {
+.locations, .amenities{
     position: relative;
     margin-left: -0.5%;
 }
 
 .amenities {
-    position: relative;
     margin-left: -1%;
 }
 
