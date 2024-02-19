@@ -4,6 +4,11 @@
     font-size: 30px;
 }
 
+.places {
+    display:flex;
+    flex-direction: column;
+}
+
 article {
     width: 390px;
     padding: 20px;
